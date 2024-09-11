@@ -13,4 +13,5 @@ Things left for me to do after assignment 3
 
 [Week 3 website](https://montana-media-arts.github.io/webDesignFall2024/topic-02/overview/)
 
+![image](./VScode-screenshot.png)
 ![image](./dally-dog.jpg)
