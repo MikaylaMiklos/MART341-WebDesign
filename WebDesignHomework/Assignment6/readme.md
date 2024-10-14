@@ -8,4 +8,4 @@ Adjusting the color and width of the elements made text and lists more legible. 
 
 #### Float and Margin experience
 
-For my left and right images using float was super easy, and I had no problems. However the photo in the middle gave me problems since it kept on aligning to the right, I couldn't figure out a way to center align it unfortunately. I tried other Style ways in attempt to center it, but none worked. In the end I just Adjusted the width to make it look center. This was my only problem, I was using w3schools throughout making my website which helped streamline the process.
+For my left and right images using float was super easy, and I had no problems. However the photo in the middle gave me problems since it kept on aligning to the right, I couldn't figure out a way to center align it unfortunately even with the margins. I tried other Style ways in attempt to center it, but none worked. In the end I just Adjusted the width to make it look center. This was my only problem, I was using w3schools throughout making my website which helped streamline the process.

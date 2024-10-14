@@ -1,0 +1,3 @@
+##### Share the aspect of your website you’re most proud of, and explain why. Focus on specific design choices, functionality, or features that stand out. Be sure to engage with this week’s discussion for additional insights and inspiration.
+
+I'm proud of my navigation bar at the top and the FaQ form. My navigation bar isn't perfect, but I'm like that my page title links back to the index. It makes me feel like I have a nice website coming along. I'm also proud of the QnA because it took me a bit to understand how forms work. I still have a long way to go on cleaning up my websites hierarchy and content to enhance its accessibility, but my work this week gives me confidence that I can slowly get there. 
