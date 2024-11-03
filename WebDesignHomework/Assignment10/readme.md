@@ -1,6 +1,6 @@
 ### Page I'm Working On
 
-I am just my **Blog page** from assignment 8, because I wanted to focus on how to organize divs.
+I am just working on my **Blog page** from assignment 8, because I wanted to focus on how to organize divs.
 
 ### Required Techniques
 
