@@ -2,15 +2,40 @@ html {background-color: rgb(109, 82, 124);}
 
 * {color: rgb(22, 13, 46);}
 
-.font {font-family: 'Verdana', Geneva, Tahoma, sans-serif;}
+/*text styling*/
 
-p {font-family: monospace;}
+@import url('https://fonts.googleapis.com/css2?family=Faculty+Glyphic&display=swap');
 
-h1{font-family: Georgia;}
+* {
+    font-family: "Faculty Glyphic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+a {text-decoration: none;}
+
+h1:hover {
+    color: rgb(92, 22, 173);
+    font-family: verdana;
+    font-size: 18pt;
+}
+span:hover {
+    color: rgb(92, 22, 173);
+    font-family: verdana;
+    font-size: 11pt;
+}
+
+p {
+    font-family: monospace;
+    line-height: 25px;
+}
+
+
+/*I don't know why, but the font I embedded doesn't appear exactly as it does on google*/
+/*end of text styling this week*/
 
 h3, h4 {
     margin-left: 25px;
-    font-family: Georgia;
 }
 
 li {
@@ -19,6 +44,8 @@ li {
 }
 
 .navigation {text-align: center;}
+
+/*Other styling*/
 
 .pageblock {
     background: rgb(186, 148, 207);

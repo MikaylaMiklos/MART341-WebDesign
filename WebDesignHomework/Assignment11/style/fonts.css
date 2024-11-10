@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'hvd';
+    src: url('fonts/HVD_Peace-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '1942_report1942_report';
+    src: url('fonts/1942-webfont') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
