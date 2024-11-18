@@ -1,0 +1,98 @@
+/*imported from project*/
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(68, 23, 4);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html {background-color: rgb(240, 232, 225);}
+
+.textcolor {color: rgb(68, 23, 4);}
+
+table, th {border: 1px solid rgb(68, 23, 4);}
+
+li{
+    display: inline;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.text{
+    color:rgb(68, 23, 4)
+}
+/*end*/
+
+/*edits to make navigation a drop down, refrenced the classes external website*/
+.nav-container {
+    font-size: 18pt;
+    background-color:rgb(169, 116, 66);
+}
+
+.navigation {
+    text-align: center;
+    padding: 10px;
+}
+
+.hidden-links {
+    display: none;
+    text-align: center;
+    position: fixed;
+    padding: 10px;
+    background-color: rgb(211, 162, 83);
+    width: 100%;
+    font-size: 12pt;
+}
+
+.nav-container:hover .hidden-links {
+    display: block;
+}
+/*this originally didn't look exactly the way I wanted, because I wanted to fill to the corners of the page. I figured it out by referencing one of the example websites! */
+/*end of navigation*/
+
+/*hero image block*/
+.heroimage {
+    background-color: rgb(201, 176, 147);
+    width: 100%;
+
+    border-color: rgb(169, 116, 66);
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+}
+
+h2 {
+    font-size: 30pt;
+    padding: 175px;
+    text-align: center;
+}
+
+/*paragraph blocks*/
+
+.p1-container {
+    background-color: rgb(209, 178, 80);
+    text-align: center;
+    font-size: 14pt;
+    margin-left: 240px;
+    width: 600px;
+    padding: 30px;
+}
+
+.p2-container {
+    background-color: rgb(209, 178, 80);
+    text-align: center;
+    font-size: 14pt;
+    float: right;
+    margin-right: 275px;
+    padding: 35px;    
+    width: 600px;
+}
+
+.border-1 {
+    border-radius: 5em 5em 8em 8em / 7em 7em 6em 6em;
+ }
+
+.border-2 {
+    border-radius: 6em 7em 11em 10em / 10em 8em 9em 9em;
+ }
