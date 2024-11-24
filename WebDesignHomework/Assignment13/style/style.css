@@ -1,0 +1,92 @@
+/*responsive design edits primarily at bottom*/
+
+html {background-color: rgb(109, 82, 124);}
+
+* {color: rgb(22, 13, 46);}
+
+/*text styling*/
+
+@import url('https://fonts.googleapis.com/css2?family=Faculty+Glyphic&display=swap');
+
+* {
+    font-family: "Faculty Glyphic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+a {text-decoration: none;}
+
+h1:hover {
+    color: rgb(92, 22, 173);
+    font-family: verdana;
+    font-size: 18pt;
+}
+span:hover {
+    color: rgb(92, 22, 173);
+    font-family: verdana;
+    font-size: 11pt;
+}
+
+p,def {
+    font-family: monospace;
+    line-height: 25px;
+}
+
+
+/*I don't know why, but the font I embedded doesn't appear exactly as it does on google*/
+/*end of text styling this week*/
+
+h3, h4 {
+    margin-left: 25px;
+}
+
+li {
+    color: rgb(67, 37, 83);
+    font-family: monospace;
+}
+
+.navigation {text-align: center;}
+
+/*Other styling*/
+
+.pageblock {
+    background: rgb(186, 148, 207);
+    border: 3px solid rgb(22, 13, 46);
+    border-radius: 12px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+#bio-para {
+    max-width: 650px;
+    margin-left: 20px;
+    color: rgb(67, 37, 83);
+}
+
+.blurb-container {
+    border: 3px solid rgb(22, 13, 46);
+    border-radius: 12px;
+    max-width: 700px;
+    max-height: 300px;
+    margin-left: 25%;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+#interests {display: inline-block;}
+
+.likes-container {
+    border: 3px solid rgb(22, 13, 46);
+    border-radius: 12px;
+    width: 250px;
+    margin-left: 25px;
+}
+
+/*Responsive design edits*/
+
+img { max-width: 16%; height: auto;}
+
+iframe { 
+    max-width: 700px;
+    height: 480px;
+}
