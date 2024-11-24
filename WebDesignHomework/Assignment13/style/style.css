@@ -120,8 +120,6 @@ img { max-width: 16%; height: auto;}
     padding: 10px;
 }
 
-
-
 .hidden-links {
     display: none;
     text-align: center;
@@ -132,6 +130,8 @@ img { max-width: 16%; height: auto;}
     font-size: 12pt;
     margin: 0%;
 }
+
+@media (max-width: 480px) {.hidden-links {display: contents;}}
 
 .nav-container:hover .hidden-links {
     display: block;
