@@ -82,7 +82,7 @@ li {
 img { max-width: 16%; height: auto;}
 
 /*trying to make the iframe responsive - copied code over from courses external website to play with it*/
-/* though because of it on desktop its not aligned inline anymore*/
+/* though because of it, on desktop its not aligned inline anymore. I will worry about fixing this some other time*/
 .container {
     position: relative;
     overflow: hidden;
@@ -133,11 +133,12 @@ a {margin: 10px;}
     margin: 0%;
 }
 
+/*I am doing my best to fix the nav links for mobile its working but being buggy ;-;*/
 @media (max-width: 480px) {.hidden-links {
     display: contents;
     text-align: left;
     position: absolute;
-    font-size: 12pt;
+    font-size: 10pt;
     margin: 0%;
 }}
 
