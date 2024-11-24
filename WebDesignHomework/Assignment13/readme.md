@@ -2,16 +2,11 @@
 
 **At Least 4 Pages** – I am using my blog page that I've been working on, but cut down some of the content to make it easier to work with.
 
-**Responsive Design** – Design adjusts somewhat smoothly across desktop and mobile screen sizes. I tested it and the images are the only thing I'm having trouble sizing appropriately, so i used a media query to get rid of them on mobile. (I don't have a tablet to test on)
+**Responsive Design** – Design adjusts somewhat smoothly across desktop and mobile screen sizes. I tested it on my phone and the major problems are alignment and the navigation. Otherwise it is optimized on mobile. (I don't have a tablet to test on)
 
+**Media Queries** – I didnt really have a major use for them in this project, but I used one to change the paragraph to a darker color on small screens. I also used a query to remove images on mobile to make the content look better aligned.
 
-**Media Queries** – Use CSS media queries to make design adjustments at specific screen widths for optimal user experience on all devices.
+**Navigation Menu** – Navigation menu is at the top of the page and this heirarchy helps get user interest to take interest in it. 
 
-I didnt really have a major use for them in this project, but I used one to change te paragraph to a darker color on small screens.
+**Dropdown Menu** – I have a dropdown menu on both desktop and mobile. On mobile it was giving me problems, It's major issue was that when I clicked on my header it wouldn't open the dropdown menu. So as a temporary fix I made the nav links visbile, when clicked on they open up the dropdown menu for some reason. It's still functional, but thats the major issue.
 
-
-**Navigation Menu** – Include a clear, user-friendly navigation menu to allow visitors to easily access each page of the site.
-
-Navigation menu is at the top of the page and this heirarchy helps get user interest to take interest in it. 
-
-**Dropdown Menu** – Add a dropdown menu within the navigation for sub-pages or sections, if applicable.
