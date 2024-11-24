@@ -2,12 +2,12 @@
 
 **At Least 4 Pages** – I am using my blog page that I've been working on, but cut down some of the content to make it easier to work with.
 
-**Responsive Design** – Design adjusts somewhat smoothly across desktop and mobile screen sizes, I tested it and the images are the only thing I'm having trouble sizing appropriately. I don't have a tablet to test on.
+**Responsive Design** – Design adjusts somewhat smoothly across desktop and mobile screen sizes. I tested it and the images are the only thing I'm having trouble sizing appropriately, so i used a media query to get rid of them on mobile. (I don't have a tablet to test on)
 
 
 **Media Queries** – Use CSS media queries to make design adjustments at specific screen widths for optimal user experience on all devices.
 
-I think I understand media queries, you use them when you want a specific element to appear a certain way at different screen widths. I didnt really have a use for them in this project, but I tried to use one to change te paragraph to a darker color on small screens.
+I didnt really have a major use for them in this project, but I used one to change te paragraph to a darker color on small screens.
 
 
 **Navigation Menu** – Include a clear, user-friendly navigation menu to allow visitors to easily access each page of the site.
