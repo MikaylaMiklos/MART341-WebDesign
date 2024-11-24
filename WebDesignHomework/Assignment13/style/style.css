@@ -108,5 +108,5 @@ img { max-width: 16%; height: auto;}
 
 /* For  phones: */
 [class*="p"] {
-    color: black;
+    p {color: black;}
   }
