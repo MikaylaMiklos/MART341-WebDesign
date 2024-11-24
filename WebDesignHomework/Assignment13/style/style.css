@@ -108,5 +108,7 @@ img { max-width: 16%; height: auto;}
 
 /* For  phones: */
 @media only screen and (max-width: 768px) {
-    p {color: rgb(241, 55, 55);}
+    p {color: black;}
   }
+
+  @media (max-width: 480px) { img { display: none; /* meant to hide images on small screens */ } }

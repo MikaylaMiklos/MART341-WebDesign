@@ -7,6 +7,7 @@
 
 **Media Queries** – Use CSS media queries to make design adjustments at specific screen widths for optimal user experience on all devices.
 
+I think I understand media queries, you use them when you want a specific element to appear a certain way at different screen widths. I didnt really have a use for them in this project, but I tried to use one to change te paragraph to a darker color on small screens.
 
 
 **Navigation Menu** – Include a clear, user-friendly navigation menu to allow visitors to easily access each page of the site.
