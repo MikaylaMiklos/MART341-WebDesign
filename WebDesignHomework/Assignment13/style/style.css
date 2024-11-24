@@ -67,7 +67,7 @@ li {
     border: 3px solid rgb(22, 13, 46);
     border-radius: 12px;
     max-width: 700px;
-    max-height: 300px;
+    max-height: 400px;
     margin-left: 25%;
     margin-top: 10px;
     padding: 10px;
@@ -90,7 +90,3 @@ iframe {
     max-width: 700px;
     height: 480px;
 }
-
-body { font-size: 16px; margin: 10px; } /* Tablet styles */
-@media (min-width: 768px) { body { margin: 20px; /* Adjust spacing for tablets */ } } /* Small phone styles */
-@media (max-width: 480px) { .menu { display: none; /* Hide menu on small screens */ } }
