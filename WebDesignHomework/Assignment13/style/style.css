@@ -16,11 +16,6 @@ html {background-color: rgb(109, 82, 124);}
 
 a {text-decoration: none;}
 
-h1:hover {
-    color: rgb(92, 22, 173);
-    font-family: verdana;
-    font-size: 18pt;
-}
 span:hover {
     color: rgb(92, 22, 173);
     font-family: verdana;
@@ -45,7 +40,6 @@ li {
     font-family: monospace;
 }
 
-.navigation {text-align: center;}
 
 /*Other styling*/
 
@@ -116,4 +110,29 @@ img { max-width: 16%; height: auto;}
 
 @media (max-width: 480px) { .blurb-container, .likes-container { margin: auto; } }
 
-@media (max-width: 480px) {}
+/*nav copied over from assignment 12 and edited to fit for this assignment*/
+.nav-container {
+    font-size: 18pt;
+}
+
+.navigation {
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+.hidden-links {
+    display: none;
+    text-align: center;
+    position: fixed;
+    padding: 10px;
+    background-color: rgb(163, 124, 184);
+    width: 980px;
+    font-size: 12pt;
+    margin: 0%;
+}
+
+.nav-container:hover .hidden-links {
+    display: block;
+}
