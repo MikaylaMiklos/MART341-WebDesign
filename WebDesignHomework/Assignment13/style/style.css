@@ -88,7 +88,7 @@ li {
 img { max-width: 16%; height: auto;}
 
 /*trying to make the iframe responsive - copied code over from courses external website to play with it*/
-/* though it because of it on desktop its not aligned inline anymore*/
+/* though because of it on desktop its not aligned inline anymore*/
 .container {
     position: relative;
     overflow: hidden;
@@ -114,4 +114,6 @@ img { max-width: 16%; height: auto;}
 
 @media (max-width: 480px) { img { display: none; /* meant to hide images on small screens */ } }
 
-@media (max-width: 480px) { .blurb-container { margin: auto; } }
+@media (max-width: 480px) { .blurb-container, .likes-container { margin: auto; } }
+
+@media (max-width: 480px) {}
