@@ -6,9 +6,10 @@
 
 
 
+
 **Media Queries** – Use CSS media queries to make design adjustments at specific screen widths for optimal user experience on all devices.
 
-Used flexible image, although I couldn't w
+
 
 **Navigation Menu** – Include a clear, user-friendly navigation menu to allow visitors to easily access each page of the site.
 
