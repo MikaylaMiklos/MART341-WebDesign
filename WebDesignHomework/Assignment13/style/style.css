@@ -87,7 +87,8 @@ li {
 
 img { max-width: 16%; height: auto;}
 
-
+/*trying to make the ifram responsive - copied code over from courses external website to play with it*/
+/* though it does not seem to be working, I am not sure why*/
 .container {
     position: relative;
     overflow: hidden;
