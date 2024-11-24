@@ -90,3 +90,7 @@ iframe {
     max-width: 700px;
     height: 480px;
 }
+
+body { font-size: 16px; margin: 10px; } /* Tablet styles */
+@media (min-width: 768px) { body { margin: 20px; /* Adjust spacing for tablets */ } } /* Small phone styles */
+@media (max-width: 480px) { .menu { display: none; /* Hide menu on small screens */ } }
