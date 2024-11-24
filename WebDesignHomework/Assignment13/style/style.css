@@ -111,7 +111,10 @@ img { max-width: 16%; height: auto;}
 @media (max-width: 480px) { .blurb-container, .likes-container { margin: auto; } }
 
 /*nav copied over from assignment 12 and edited to fit for this assignment*/
-a {margin: 10px;}
+span {
+    margin: 10px;
+    text-align: center;
+}
 
 .nav-container {
     font-size: 18pt;
