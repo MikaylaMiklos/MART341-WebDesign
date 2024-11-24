@@ -2,9 +2,7 @@
 
 **At Least 4 Pages** – I am using my blog page that I've been working on, but cut down some of the content to make it easier to work with.
 
-**Responsive Design** – Ensure the website layout adjusts smoothly across different screen sizes (desktop, tablet, and mobile).
-
-
+**Responsive Design** – Design adjusts somewhat smoothly across desktop and mobile screen sizes, I tested it and the images are the only thing I'm having trouble sizing appropriately. I don't have a tablet to test on.
 
 
 **Media Queries** – Use CSS media queries to make design adjustments at specific screen widths for optimal user experience on all devices.
