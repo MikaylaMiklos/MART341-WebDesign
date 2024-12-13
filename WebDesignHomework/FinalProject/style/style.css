@@ -1,0 +1,197 @@
+/*basic styling*/
+
+html {
+    background-image: url(../images/whimsy-quilt.jpg);
+    background-color: rgb(98, 133, 119);
+}
+
+
+* {color: rgb(47, 50, 94);}
+
+/*text styling*/
+
+@import url('https://fonts.googleapis.com/css2?family=Faculty+Glyphic&display=swap');
+
+* {
+    font-family: "Faculty Glyphic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+h1:hover {
+    color: rgb(71, 36, 61);
+    font-family: verdana;
+    font-size: 18pt;
+}
+span:hover {
+    color: rgb(71, 36, 61);
+    font-family: verdana;
+}
+
+p, def, dd {
+    font-family: monospace;
+    line-height: 25px;
+}
+
+/*end of text styling */
+
+/*element styling*/
+
+h1, h2, h3, h4, span {
+    color: black;
+    margin-left: 10px;
+}
+
+a {text-decoration: none;}
+
+li {
+    color: rgb(47, 50, 94);
+    font-family: monospace;
+}
+
+hr {color: rgb(22, 13, 46);}
+
+.navigation {text-align: center;}
+
+a {
+    text-align: center;
+    margin-left: 15px;
+}
+
+/*end of element styling*/
+
+/*Other styling*/
+
+.pageblock {
+    background: rgba(137, 163, 153, 0.877);
+    border: 5px rgb(71, 21, 21);
+    border-style: dotted;
+    width: 1000px;
+    margin: auto;
+}
+
+.gif-values {
+    float: initial;
+    position: fixed;
+}
+
+/*index styling*/
+#bio-para {
+    width: 650px;
+    margin-left: 20px;
+    color: rgb(47, 50, 94);
+}
+
+.blurb-container {
+    border: 3px solid rgb(22, 13, 46);
+    border-radius: 12px;
+    width: 700px;
+    height: 200px;
+    margin-left: 25%;
+    margin-top: 10px;
+    background-color: rgba(207, 231, 220, 0.514);
+}
+
+#interests {display: inline-flex;}
+
+.likes-container {
+    border: 3px solid rgb(22, 13, 46);
+    border-radius: 12px;
+    width: 250px;
+    margin-left: 60px;
+    margin-bottom: 25px;
+    background-color: rgba(207, 231, 220, 0.514);
+}
+
+#favs {margin-left: 35px;}
+
+iframe {margin-left: 150px;}
+
+/*schedule page styling*/
+table, th, td {
+    border: 1px solid rgb(22, 13, 46);
+    border-radius: 6px;
+  }
+
+#schedule-qna-block {margin-left: 25px;}
+
+.dolls-kill {
+    color: rgb(19, 22, 54);
+    font-family: monospace;
+    margin: 0%;
+}
+
+/*fashion page styling*/
+
+.fashion-container {
+    border: 3px solid rgb(22, 13, 46);
+    border-radius: 12px;
+    width: 600px;
+    height: 250px;
+    margin-left: 33%;
+    margin-top: 10px;
+    background-color: rgba(207, 231, 220, 0.514);
+}
+
+#fashion-para {
+    width: 650px;
+    margin-left: 20px;
+    color: rgb(47, 50, 94);
+}
+
+.photos-container {
+    border: 3px solid rgb(22, 13, 46);
+    border-radius: 12px;
+    width: 680px;
+    height: 135px;
+    margin-left: 70px;
+    margin-top: 10px;
+    background-color: rgba(207, 231, 220, 0.514);
+}
+
+#fashion-photos {
+    width: 650px;
+    margin-left: 20px;
+    color: rgb(47, 50, 94);
+}
+
+.delias-container {
+    border: 3px solid rgb(22, 13, 46);
+    border-radius: 12px;
+    width: 800px;
+    height: 260px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: rgba(207, 231, 220, 0.514);
+}
+
+#delias-para {
+    width: 650px;
+    margin-left: 50px;
+    color: rgb(47, 50, 94);
+}
+
+/*ideas styling*/
+
+.ideas-container {
+    border: 3px solid rgb(22, 13, 46);
+    border-radius: 12px;
+    width: 300px;
+    height: 270px;
+    margin-left: 40px;
+    margin-top: 10px;
+    background-color: rgba(207, 231, 220, 0.514);
+    display: inline-block;
+}
+
+.site-container {
+    border: 3px solid rgb(22, 13, 46);
+    border-radius: 12px;
+    width: 580px;
+    height: 290px;
+    margin-left: 25px;
+    background-color: rgba(207, 231, 220, 0.514);
+    display: inline-block;
+    position: absolute;
+}
