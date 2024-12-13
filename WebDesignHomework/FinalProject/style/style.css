@@ -6,6 +6,7 @@ html {
 }
 
 @media (max-width: 480px) { .blurb-container, .likes-container, .fashion-container, .photos-container, .delias-container, .ideas-container, .site-container { max-height: 600px; } }
+@media (max-width: 480px) { .blurb-container, .likes-container, .fashion-container, .photos-container, .delias-container, .ideas-container, .site-container { max-width: 480px; } }
 @media (max-width: 760px) { .blurb-container, .likes-container, .fashion-container, .photos-container, .delias-container, .ideas-container, .site-container { max-height: 400px; } }
 
 * {color: rgb(47, 50, 94);}
